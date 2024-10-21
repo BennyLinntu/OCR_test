@@ -1,0 +1,37 @@
+Table 1_ Stationary combustion of fuels_ Residential use
+Table 2_ Stationary combustion of fuels_ Commercial use
+Table 3_ Stationary combustion of fuels_ Industrial use
+Table 4_ Transport fuels
+Table 5_ Biofuels
+Table 6_ Transmission and distribution losses for natural gas and electricity
+Table 7_ Global warming potentials of refrigerants (refrigerant use emission factors)
+Table 8_ Global warming potentials of medical gases
+Table 9_ Purchased electricity ¨C annual average
+Table 10_ Purchased electricity ¨C calendar quarters
+Table 11_ Transmission and distribution losses for electricity consumption
+Table 12_ Working from home emission factors
+Table 13_ Passenger vehicle fleet
+Table 14_ Default private car emission factors
+Table 15_ Default rental car emission factors
+Table 16_ Taxi travel
+Table 17_ Public transport passenger
+Table 18_ Public transport vehicles
+Table 19_ Air travel (domestic)
+Table 20_ Air travel (international)
+Table 21_ Helicopter emission factors
+Table 22_ Accommodation
+Table 23_ Road freight_ Light commercial vehicles
+Table 24_ Road freight_ Default light commercial vehicles
+Table 25_ Road freight_ Heavy goods vehicles
+Table 26_ Road freight_ Default emission factors for heavy goods vehicles
+Table 27_ Road freight_ Emission factors for freighting goods by road
+Table 28_ Freighting goods in New Zealand
+Table 29_ Air freight
+Table 30_ International shipping
+Table 31_ Water supply
+Table 32_ Wastewater treatment
+Table 33_ Waste disposal with and without landfill gas recovery (LFGR)
+Table 34_ Composting
+Table 35_ Forest growth removal source
+Table 36_ Land-use change
+Table 37_ Agriculture
